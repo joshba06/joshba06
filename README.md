@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Niklas</h1>
 <h3 align="center">I just graduated from a full-time web dev bootcamp at Le Wagon London</h3>
 
-- 🔭 I’m currently working on <a href="https://www.lesroutes.co.uk" target="_blank">LesRoutes</a>
+- 🔭 I’m currently working on <a href="https://www.lesroutes.co.uk" target="blank">LesRoutes</a>
 
 - 🌱 I’m currently learning **JavaScript**
 
