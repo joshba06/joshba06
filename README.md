@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.lesroutes.co.uk" target="blank">LesRoutes</a>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, GCP and about the Google API**
 
 - 💬 Ask me about **Ruby on Rails, Python**
 
